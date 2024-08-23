@@ -1,0 +1,162 @@
+[
+  {
+    "bookTitle": "Sharp Objects",
+    "availability": "In Stock",
+    "price": "£47.82",
+    "convertedRating": "4",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+    "convertedLink": "https://books.toscrape.com/sharp-objects_997/index.html"
+  },
+  {
+    "bookTitle": "In a Dark, Dark Wood",
+    "availability": "In Stock",
+    "price": "£19.63",
+    "convertedRating": "1",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/23/85/238570a1c284e730dbc737a7e631ae2b.jpg",
+    "convertedLink": "https://books.toscrape.com/in-a-dark-dark-wood_963/index.html"
+  },
+  {
+    "bookTitle": "The Past Never Ends",
+    "availability": "In Stock",
+    "price": "£56.50",
+    "convertedRating": "4",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/89/b8/89b850edb01851a91f64ba114b96acb6.jpg",
+    "convertedLink": "https://books.toscrape.com/the-past-never-ends_942/index.html"
+  },
+  {
+    "bookTitle": "A Murder in Time",
+    "availability": "In Stock",
+    "price": "£16.64",
+    "convertedRating": "1",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/11/aa/11aaad48b5f15e262456ca65294084da.jpg",
+    "convertedLink": "https://books.toscrape.com/a-murder-in-time_877/index.html"
+  },
+  {
+    "bookTitle": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+    "availability": "In Stock",
+    "price": "£44.10",
+    "convertedRating": "4",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/29/fe/29fe70b1b2e5a9ba61d4bd331255e19e.jpg",
+    "convertedLink": "https://books.toscrape.com/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html"
+  },
+  {
+    "bookTitle": "The Last Mile (Amos Decker #2)",
+    "availability": "In Stock",
+    "price": "£54.21",
+    "convertedRating": "2",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/37/f1/37f118b4a56d866e1e8b563759d6966c.jpg",
+    "convertedLink": "https://books.toscrape.com/the-last-mile-amos-decker-2_754/index.html"
+  },
+  {
+    "bookTitle": "That Darkness (Gardiner and Renner #1)",
+    "availability": "In Stock",
+    "price": "£13.92",
+    "convertedRating": "1",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/44/9e/449ed681142bc336646abee754e96639.jpg",
+    "convertedLink": "https://books.toscrape.com/that-darkness-gardiner-and-renner-1_743/index.html"
+  },
+  {
+    "bookTitle": "Tastes Like Fear (DI Marnie Rome #3)",
+    "availability": "In Stock",
+    "price": "£10.69",
+    "convertedRating": "1",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/3c/91/3c91d97266bd6dda322089695fb46daf.jpg",
+    "convertedLink": "https://books.toscrape.com/tastes-like-fear-di-marnie-rome-3_742/index.html"
+  },
+  {
+    "bookTitle": "A Time of Torment (Charlie Parker #14)",
+    "availability": "In Stock",
+    "price": "£48.35",
+    "convertedRating": "5",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/e8/c0/e8c0ba15066bab950ae161fd60949b9a.jpg",
+    "convertedLink": "https://books.toscrape.com/a-time-of-torment-charlie-parker-14_657/index.html"
+  },
+  {
+    "bookTitle": "A Study in Scarlet (Sherlock Holmes #1)",
+    "availability": "In Stock",
+    "price": "£16.73",
+    "convertedRating": "2",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/8f/a4/8fa41d6caa10e427356b8a590eb4d96b.jpg",
+    "convertedLink": "https://books.toscrape.com/a-study-in-scarlet-sherlock-holmes-1_656/index.html"
+  },
+  {
+    "bookTitle": "Poisonous (Max Revere Novels #3)",
+    "availability": "In Stock",
+    "price": "£26.80",
+    "convertedRating": "3",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/23/52/2352718971d5e166fa9541a5a7d716fa.jpg",
+    "convertedLink": "https://books.toscrape.com/poisonous-max-revere-novels-3_627/index.html"
+  },
+  {
+    "bookTitle": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+    "availability": "In Stock",
+    "price": "£54.36",
+    "convertedRating": "4",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/c3/8d/c38d65cd155b67ca025f0655bd1bb095.jpg",
+    "convertedLink": "https://books.toscrape.com/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html"
+  },
+  {
+    "bookTitle": "Most Wanted",
+    "availability": "In Stock",
+    "price": "£35.28",
+    "convertedRating": "3",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/8b/bc/8bbc5ab4c3784b4d9b93eb0fd1fb6fd6.jpg",
+    "convertedLink": "https://books.toscrape.com/most-wanted_623/index.html"
+  },
+  {
+    "bookTitle": "Hide Away (Eve Duncan #20)",
+    "availability": "In Stock",
+    "price": "£11.84",
+    "convertedRating": "1",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/57/07/5707c3d5d4fd44d943d51730ba7d429a.jpg",
+    "convertedLink": "https://books.toscrape.com/hide-away-eve-duncan-20_620/index.html"
+  },
+  {
+    "bookTitle": "Boar Island (Anna Pigeon #19)",
+    "availability": "In Stock",
+    "price": "£59.48",
+    "convertedRating": "3",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/d5/81/d58157866ea8f015a8e4c55b23b8c96f.jpg",
+    "convertedLink": "https://books.toscrape.com/boar-island-anna-pigeon-19_613/index.html"
+  },
+  {
+    "bookTitle": "The Widow",
+    "availability": "In Stock",
+    "price": "£27.26",
+    "convertedRating": "2",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/fd/71/fd71fb07247bf911505a351c0670c6dc.jpg",
+    "convertedLink": "https://books.toscrape.com/the-widow_609/index.html"
+  },
+  {
+    "bookTitle": "Playing with Fire",
+    "availability": "In Stock",
+    "price": "£13.71",
+    "convertedRating": "3",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/90/0b/900bd2e60d56b6480a4e8eb2dddb46d6.jpg",
+    "convertedLink": "https://books.toscrape.com/playing-with-fire_602/index.html"
+  },
+  {
+    "bookTitle": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+    "availability": "In Stock",
+    "price": "£25.37",
+    "convertedRating": "5",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/c7/ab/c7abb5e32bd37118a87523dcee0a70a6.jpg",
+    "convertedLink": "https://books.toscrape.com/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html"
+  },
+  {
+    "bookTitle": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+    "availability": "In Stock",
+    "price": "£52.30",
+    "convertedRating": "5",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/95/d7/95d7541679fcbd579b8a4f2b47231aaf.jpg",
+    "convertedLink": "https://books.toscrape.com/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html"
+  },
+  {
+    "bookTitle": "Delivering the Truth (Quaker Midwife Mystery #1)",
+    "availability": "In Stock",
+    "price": "£20.89",
+    "convertedRating": "4",
+    "convertedImgSrc": "https://books.toscrape.com/media/cache/57/31/5731a5d46c2c1e88977eb5e6d1337a2e.jpg",
+    "convertedLink": "https://books.toscrape.com/delivering-the-truth-quaker-midwife-mystery-1_464/index.html"
+  }
+]

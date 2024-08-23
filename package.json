@@ -1,0 +1,15 @@
+{
+  "name": "book_scrape_catalog",
+  "version": "1.0.0",
+  "description": "catalog_scraper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jennifer sieber",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.1.1"
+  }
+}

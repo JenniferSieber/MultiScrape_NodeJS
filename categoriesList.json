@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Travel",
+    "link": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html"
+  },
+  {
+    "title": "Mystery",
+    "link": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
+  },
+  {
+    "title": "Historical Fiction",
+    "link": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html"
+  },
+  {
+    "title": "Sequential Art",
+    "link": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html"
+  }
+]
