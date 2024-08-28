@@ -1,4 +1,5 @@
-// Read the categories.json, create a file for each category with books data saved to json file based on category name. (shortened long list for testing)
+// Read the categories.json, create a file for each category with books data saved 
+// to json file based on category name. (shortened long list for testing)
 import fs from 'fs';
 import puppeteer from 'puppeteer';
 
