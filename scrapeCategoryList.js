@@ -18,14 +18,14 @@ const scrape = async () => {
         title,
         link,
       };
-    })
-  })
+    });
+  });
   
   fs.writeFileSync('categoriesList.json', JSON.stringify(catalog, null, 2));
-  console.log('Data saved to categoriesList.json')
+  console.log('Data saved to categoriesList.json');
   await browser.close();
-}
+};
 
-scrape()
+scrape();
 
 
