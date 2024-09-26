@@ -77,4 +77,4 @@ const scrapeCategory = async (categoryTitle, url) => {
   fs.writeFileSync(`${categoryTitle}.json`, JSON.stringify(booksForJsonOutput, null, 2));
   console.log(`File: ${categoryTitle}.json created.`);
   await browser.close();
-}
+};
