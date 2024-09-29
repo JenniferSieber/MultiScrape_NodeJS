@@ -42,7 +42,6 @@ const scrapeCategory = async (categoryTitle, url) => {
     const bookElements = document.querySelectorAll('.product_pod');
 
     return Array.from(bookElements).map((book) => {
-
       const bookTitle = book.querySelector('h3 a').getAttribute('title');
       const availability = book.querySelector('.instock.availability') ? 'In Stock' : 'Out of Stock';
       const price = book.querySelector('.price_color').textContent;
